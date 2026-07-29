@@ -44,9 +44,11 @@ vless://fe444095-ab4b-45b5-8f25-2c2576fb1968@ru.rush-server.com:443?encryption=n
 vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@fr1.levikogjgfdd.ir:40443?encryption=none&security=reality&sni=deepl.com&fp=chrome&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&sid=a8ae&spx=%2F&type=tcp&headerType=none&host=telegram-Leviko-v2ray#Join%2BTelegram%3A%40Farah_VPN
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@108.162.192.75:443?encryption=none&security=tls&sni=octopusss.net&insecure=0&allowInsecure=0&type=ws&host=octopusss.net&path=%2Fodiyfws#Join%2BTelegram%3A%40Farah_VPN
 vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@91.193.58.163:8443?encryption=none&security=tls&sni=vlso.1d.mom&insecure=0&allowInsecure=0&type=ws&host=vlso.1d.mom&path=%2F#Join%2BTelegram%3A%40Farah_VPN
+
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkRFIFx1RDgzQ1x1RERFOVx1RDgzQ1x1RERFQSB8IEBSYXlkaWthbHggfCBBOUIxMEMiLA0KICAiYWRkIjogIjkxLjEwNy4xMzkuMTg2IiwNCiAgInBvcnQiOiAiNTE0NTkiLA0KICAiaWQiOiAiNTAwY2RjODMtYjE4OS00ZDc5LWIwNmItMTM5Yzc5NzJhNTdmIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiLA0KICAiaW5zZWN1cmUiOiAiMCIsDQogICJ2Y24iOiAiIiwNCiAgInBjcyI6ICIiDQp9
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkRFIFx1RDgzQ1x1RERFOVx1RDgzQ1x1RERFQSB8IEBSYXlkaWthbHggfCAzRDE0MEQiLA0KICAiYWRkIjogInN1YjIubmtybXVuYS5pciIsDQogICJwb3J0IjogIjIwOTgiLA0KICAiaWQiOiAiYmI4NGIxYjItYWU2MS00NjFhLThhMmMtMmRlZTc2NDcyNDcxIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiLA0KICAiaW5zZWN1cmUiOiAiMCIsDQogICJ2Y24iOiAiIiwNCiAgInBjcyI6ICIiDQp9
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1RDgzRFx1REZFMyIsDQogICJhZGQiOiAiOTEuMTA3LjEzOS4xODYiLA0KICAicG9ydCI6ICI1MTQ1OSIsDQogICJpZCI6ICI1MDBjZGM4My1iMTg5LTRkNzktYjA2Yi0xMzljNzk3MmE1N2YiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiIsDQogICJpbnNlY3VyZSI6ICIwIiwNCiAgInZjbiI6ICIiLA0KICAicGNzIjogIiINCn0=
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.9:8080?#Join%2BTelegram%3A%40Farah_VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.128.25.44:1080?#Join%2BTelegram%3A%40Farah_VPN
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001?#%F0%9F%8F%B3%EF%B8%8F%20UNKNOWN%20SS%203216
@@ -56,6 +58,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ejBkSGpEZm9hU2FadVJGTEdILWhOZkJBTFNFSlVZRA@
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001?#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%40RaViraNet
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.126.122:8388?#%F0%9F%87%B3%F0%9F%87%B1NL%28AzadNet.t.me%29%20%285%29
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008?#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%40RaViraNet
+
 trojan://humanity@104.18.32.47:443?security=tls&sni=www.calmlunch.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#US
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20066?security=tls&sni=hk.catxstar.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%A6UA_3%7C2.0MB%2Fs
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20066?security=tls&sni=hkdcrtc-e.catcat321.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%A6UA_1%7C2.2MB%2Fs
