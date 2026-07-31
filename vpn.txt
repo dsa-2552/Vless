@@ -31,7 +31,6 @@ hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@5.180.97.78:443?sni=nederland.g
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@getsavesafe.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=getsavesafe.net&fp=chrome&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&type=tcp&headerType=none#Relay%2028
 vless://b7977b65-cfd8-4db9-a029-6ef014a4ae4a@217.163.76.118:2086?encryption=none&security=none&type=xhttp&host=xvh.andishehparenting.com&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
 vless://b7977b65-cfd8-4db9-a029-6ef014a4ae4a@5.10.214.53:2086?encryption=none&security=none&type=xhttp&host=xvh.andishehparenting.com&path=%2F&mode=packet-up#%F0%9F%87%AB%F0%9F%87%AE%20%5BBL%5D%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20473
-trojan://521314@104.16.97.215:443?security=tls&sni=tjplay.lxdxo.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=tjplay.lxdxo.kdns.fr&path=Telegram%F0%9F%87%A8%F0%9F%87%B3#Notorgamers
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.64.35.7:2053?encryption=none&security=tls&sni=josni.hoyes.cloudns.ch&insecure=0&allowInsecure=0&type=ws&host=josni.hoyes.cloudns.ch&path=%2F#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20Proxy%20Pack%20%2318
 vless://2e8beadd-99bf-4fda-8692-8493886504bc@104.21.56.8:8443?encryption=none&security=tls&sni=ad-007.cloud25075.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ad-007.cloud25075.info&path=%2F#Notorgamers
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@172.64.155.209:2053?encryption=none&security=tls&sni=ov.iran-servers.shop&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ov.iran-servers.shop&path=%2FJ5aLQOY1R9ONWYCM#%40GozargahAzad%7C%F0%9F%8F%81
@@ -65,3 +64,4 @@ trojan://521314@104.16.97.215:443?security=tls&sni=tjplay.lxdxo.kdns.fr&insecure
 trojan://humanity@104.18.32.47:443?security=tls&sni=www.calmlunch.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#US
 trojan://humanity@104.17.121.43:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=%2Fassignment#Join%2BTelegram%3A%40Farah_VPN
 trojan://yooog56ts3ymtpp5@driveservice.mooo.com:443?security=tls&sni=driveservice.mooo.com&insecure=0&allowInsecure=0&type=grpc&authority=driveservice.mooo.com&serviceName=%2F16835%2FCba1c1ZOir&mode=gun#%F0%9F%87%AB%F0%9F%87%AE%20trojan-grpc
+trojan://521314@104.16.97.215:443?security=tls&sni=tjplay.lxdxo.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=tjplay.lxdxo.kdns.fr&path=Telegram%F0%9F%87%A8%F0%9F%87%B3#Notorgamers
