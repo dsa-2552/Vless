@@ -23,6 +23,8 @@ vless://b7977b65-cfd8-4db9-a029-6ef014a4ae4a@5.10.214.53:2086?encryption=none&se
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.64.35.7:2053?encryption=none&security=tls&sni=josni.hoyes.cloudns.ch&insecure=0&allowInsecure=0&type=ws&host=josni.hoyes.cloudns.ch&path=%2F#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20Proxy%20Pack%20%2318
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@172.64.155.209:2053?encryption=none&security=tls&sni=ov.iran-servers.shop&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ov.iran-servers.shop&path=%2FJ5aLQOY1R9ONWYCM#%40GozargahAzad%7C%F0%9F%8F%81
 vless://a3d24b02-6703-49f0-8a60-526044edc49d@104.17.108.69:443?encryption=none&security=tls&sni=tarafdarto.alanfaz.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2F#0044%20%7C%20%E2%98%81%EF%B8%8F%20Cloudflare%20%7C%20VLESS%20%7C%20TG%3A%20%40YoutubeUnBlockRu
-
+vless://a0b067ac-162d-4237-956d-10b8b471d3f5@54.37.75.187:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=DHsthrDRMCGcOyJd4xTce_4CCSAJZGwxCdfNrkB_Pgs&sid=479826bdfc3eb86e&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Join%2BTelegram%3A%40Farah_VPN%20%F0%9F%87%A9%F0%9F%87%AA
+vless://1478d83f-3e0b-4d96-99cc-b514495e53c6@45.192.2.173:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.net&fp=firefox&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=364994a6f61fc955&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20Join%2BTelegram%3A%40Farah_VPN%20%F0%9F%87%AB%F0%9F%87%B7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.29:443?#%F0%9F%87%B3%F0%9F%87%B1%20Join%2BTelegram%3A%40Farah_VPN%20%F0%9F%87%B3%F0%9F%87%B1
 
 
