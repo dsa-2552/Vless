@@ -1,3 +1,5 @@
+vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@185.232.117.194:13868?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amd.com&fp=firefox&pbk=qFHvK-8mR8GhmykivRP_WIgys1NK_-DqQJAhOJaWVW4&sid=e852dc&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%AD%20LTE%2088%20%7C%20%D1%82%D0%B3%D0%BA%3A%20%40rostunnel
+
 vless://a4037b4c-6a9d-528c-9efb-7d801cce8adb@91.84.117.29:443?encryption=none&security=reality&sni=vk.com&fp=firefox&pbk=PyV8IrAs0LkE2d_DdjvdCtpWG7MZyUKsYkb52GUmuDM&sid=67&type=xhttp&path=%2F#4088%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20%F0%9F%8F%B3%EF%B8%8F%20SNI-VK%20%7C%20VLESS%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 
 vless://a4037b4c-6a9d-528c-9efb-7d801cce8adb@91.84.117.29:443?encryption=none&security=reality&sni=vk.com&fp=chrome&pbk=PyV8IrAs0LkE2d_DdjvdCtpWG7MZyUKsYkb52GUmuDM&sid=67&type=xhttp&path=%2F#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20%F0%9F%8F%B3%EF%B8%8F%20SNI-VK%20%7C%20VLESS%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
