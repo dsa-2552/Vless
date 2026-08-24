@@ -1,7 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.39:8080?#%F0%9F%87%B3%F0%9F%87%B1%20Join%2BTelegram%3A%40Farah_VPN%20%F0%9F%87%B3%F0%9F%87%B1
 
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@95.85.247.156:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eu-west.cendora.ru&fp=qq&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&sid=dd3ff38418d29d22&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20Join%2BTelegram%3A%40Farah_VPN%20%F0%9F%87%B3%F0%9F%87%B1
-
 vless://2ed0d2a0-dbba-4cc2-95df-a197831d9978@109.169.37.129:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=foodnetwork.com&fp=chrome&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629&spx=%2FHesarWeb&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20Join%2BTelegram%3A%40Farah_VPN%20%F0%9F%87%AC%F0%9F%87%A7
 
 vless://7c9b4360-6be9-47f2-ace9-b87297ea3d8f@157.90.165.181:11762?encryption=none&flow=xtls-rprx-vision&security=reality&sni=swdist.apple.com&fp=chrome&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Join%2BTelegram%3A%40Farah_VPN%20%F0%9F%87%A9%F0%9F%87%AA
