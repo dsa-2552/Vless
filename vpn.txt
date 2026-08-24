@@ -4,6 +4,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8
 
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%AA%20Join%2BTelegram%3A%40Farah_VPN%20%F0%9F%87%AA%F0%9F%87%AA
 
+vless://c6bc8627-ab12-457b-b143-0ea0de51b1ed@45.12.254.86:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=4Al0xAzgmDer_tEDUj7kx5SJ6A2a4FRi1S5oa0WBMR8&sid=953e8078&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Join%2BTelegram%3A%40Farah_VPN%20%F0%9F%87%A9%F0%9F%87%AA
+
 vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=qq&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%AA%20Join%2BTelegram%3A%40Farah_VPN%20%F0%9F%87%AA%F0%9F%87%AA
 
 vless://c6bc8627-ab12-457b-b143-0ea0de51b1ed@45.12.254.86:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=4Al0xAzgmDer_tEDUj7kx5SJ6A2a4FRi1S5oa0WBMR8&sid=953e8078&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Join%2BTelegram%3A%40Farah_VPN%20%F0%9F%87%A9%F0%9F%87%AA
