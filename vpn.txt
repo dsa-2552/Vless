@@ -22,14 +22,6 @@ vless://f798a2c4-c51b-409d-b349-ca8455b36796@146.59.35.134:8443?encryption=none&
 
 vless://758f49d3-5f5f-47e7-bfa4-4ce96faf800d@144.31.106.40:8443?encryption=none&security=reality&sni=cdn.shopify.com&fp=firefox&pbk=NI5Rkfn6zO_gF-UC1nuvJwu4SDakCXh3ygJOKU1EITU&sid=f747a7a5793b5714&type=grpc#DE%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40Raydikalx%20%7C%20DC6896
 
-vless://b71961c9-4aa9-4283-b342-1ef99a46fe23@213.21.229.126:12345?encryption=none&security=tls&sni=mw5qisav.wjwqvie0wb1eqhb8e83clqdoq3m5p9a4on.workers.dev&fp=chrome&type=ws&host=mw5qisav.wjwqvie0wb1eqhb8e83clqdoq3m5p9a4on.workers.dev&path=%2F%40Marisa_kristi#%F0%9F%87%B8%F0%9F%87%AA%20%40BLACK_SERWERS%20%2313%3FserverDescription%3D8J%2BboSBHaXpsaW4gd2UgeWd0eWJhcmx5
-
-vless://7c1b61d5-a9de-40b0-af9b-8a64c6e2863a@199.232.86.44:443?encryption=none&security=tls&sni=accounts.fastly.com&fp=chrome&alpn=h3&type=xhttp&host=ovd7.global.ssl.fastly.net&path=%2F&mode=packet-up#%F0%9F%87%BA%F0%9F%87%B8%20%40BLACK_SERWERS%20%231%3FserverDescription%3D8J%2BTuiBZb3VUdWJlIMK3IE5ldGZsaXg%3D
-
-vless://02b4c992-6353-4a1b-841d-5c3337600efb@146.75.86.6:443?encryption=none&security=tls&sni=developer.fastly.com&fp=chrome&alpn=h3&type=xhttp&host=g1.global.ssl.fastly.net&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%40BLACK_SERWERS%20%2324%3FserverDescription%3D8J%2BUkiBTZWN1cmUgYnJvd3Npbmc%3D
-
-vless://791e00f5-2087-4302-b6ef-025773570b11@185.238.191.216:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=edge&pbk=X0bW8IPtqf3KrPFG1e5H-0c9XrENmZ5aNYjdYj5GQ2E&sid=077c1b614c773354&spx=%2F&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20%40BLACK_SERWERS%20%2316%3FserverDescription%3D8J%2BUkiBTZWN1cmUgYnJvd3Npbmc%3D
-
 vless://7c9b4360-6be9-47f2-ace9-b87297ea3d8f@157.90.165.181:11762?encryption=none&flow=xtls-rprx-vision&security=reality&sni=swdist.apple.com&fp=firefox&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D0%B0%D0%B9%D0%BF%D0%B8%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%5BDE%5D%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20VFPARSER
 
 vless://bf645ffe-a3cc-4480-8e4c-9bcd1af41052@170.101.109.37:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&pbk=rTnh7Y8RsSA5HSvFf-pWT49x8va6U6XHMRgNiMuwB0A&sid=ab88d256&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20%5BDE%5D%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20VFPARSER
