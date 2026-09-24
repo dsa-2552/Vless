@@ -6,6 +6,8 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443?#%5B110ms%20%D0%9D%D0%B8
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU@51.77.225.200:8388?#%5B101ms%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F%20GB%20%F0%9F%87%AC%F0%9F%87%A7%20%40vlesstrojan%5D
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080?#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-623
+
 vless://8f67e374-53d9-43bb-85c9-a459a959cd1b@194.77.71.152:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=194.77.71.152&fp=firefox&pbk=e7i5my9c3knQgYrKCJ0pVJEPt8ZDTdbcmCtzK7IQU2Y&sid=74bd7db505e16e3f&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%F0%9F%95%8A%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%5B%28%D0%9D%D0%B5%29%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%91%D0%A1%20%7C%20%D0%A2%D0%BE%D1%80%D1%80%D0%B5%D0%BD%D1%82%20%7C%20%D0%A0%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B0%20%D0%B2%20YouTube%5D%20%237
 
 vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@151.247.193.190:443?encryption=none&security=tls&sni=assets-fra.pleiades.codes&fp=firefox&type=grpc&authority=&serviceName=cdn.v1.AssetService&mode=gun#%5B326ms%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20FR%20%F0%9F%87%AB%F0%9F%87%B7%20%40vlesstrojan%5D
