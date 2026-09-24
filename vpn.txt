@@ -18,8 +18,6 @@ vless://d7cad038-0c3f-4cce-8f8a-36464aaf66c0@31.76.7.154:7443?encryption=none&fl
 
 vless://b3a11068-1a7e-4643-85de-7c82cce46943@185.223.57.16:33743?encryption=none&security=reality&sni=www.google.com&fp=firefox&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&type=grpc&authority=&serviceName=TunService&mode=gun#%F0%9F%87%B5%F0%9F%87%B1%20%5BVL%5D%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20%235512%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
 
-vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-162191099-direct.mbghalibaf.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&type=tcp&headerType=none#%5B313ms%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20FR%20%F0%9F%87%AB%F0%9F%87%B7%20%40vlesstrojan%5D
-
 vless://20d7c485-5d24-49b5-a5cc-bb7a7daf9908@193.148.59.178:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=-GMpCber8qtrKzJbwvpLcwlIhOy-5zS66u_x9lLvIjE&sid=e3daad69&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20%5BVL%5D%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%237017%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
 
 vless://edde565e-41f5-400e-84ea-7b87a3e84488@152.53.1.40:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%B9%20%5BVL%5D%20%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F%20%238393%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
