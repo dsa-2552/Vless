@@ -2,6 +2,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080?#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%40owpns%20%5Bowpn.org%5D
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080?#10.%F0%9F%87%B3%F0%9F%87%B1%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%7C%20_%20t.me%2Fowpns%20%5Bowpn.org%5D
+
 vless://dbe7df9a-c846-4305-9bbf-771c1b2f0520@admin.jugoslavija.uk:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=admin.jugoslavija.uk&fp=qq&pbk=kyjCyJlDyqcpc0UgyPaW-4tjGKbeQKz45zHRmHvxw2Q&sid=665aa727f6bc1f5e&type=tcp&headerType=none#%D0%A2%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%20%2F%20%D0%A0%D0%BE%D1%83%D1%82%D0%B5%D1%80%20%5Bowpn.org%5D
 
 vless://4abdfe42-aec7-4b66-974d-3f891e2e8184@129.101.123.92:443?encryption=none&security=reality&sni=nlll.gaz-service.shop&fp=firefox&pbk=Zl6Fe6WYQuaFe_QNUB4qU7nRkGujy7LqjoQ96GO3jUc&type=grpc&authority=&serviceName=grpc&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%202%20JSC%20TIMEWEB
