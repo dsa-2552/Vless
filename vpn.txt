@@ -26,7 +26,6 @@ vless://82f37352-85e5-49bb-9edc-a80997065659@83.168.95.145:443?encryption=none&f
 
 vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?encryption=none&security=reality&sni=www.apple.com&fp=firefox&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&sid=9e419c0759b54d6f&type=tcp&headerType=none#%5B344ms%20%5Bowpn.org%5D
 
-vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@45.139.197.27:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=angldril.pumpkinpie.study&fp=firefox&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88&type=tcp&headerType=none#Gasai%20WiFi%20%F0%9F%A9%B7%20%F0%9F%87%AC%F0%9F%87%A7
 
 
 
