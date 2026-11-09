@@ -26,7 +26,9 @@ vless://7592ca5c-b352-4562-8856-a9c936a3331b@45.90.56.195:443?encryption=none&fp
 
 vless://042bec60-62d7-4148-a0da-5709ae3ee5a6@195.123.209.32:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&security=reality&sid=76132b3b39704c44&sni=lv1.hat.onl&type=tcp#🇱🇻 Латвия 2 ROUTE 95 LLC
 
+vless://042bec60-62d7-4148-a0da-5709ae3ee5a6@144.31.242.123:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&security=reality&sid=76132b3b39704c44&sni=dk1.hat.onl&type=tcp#🇩🇰 Дания 1 SERV.HOST GROUP LTD
 
+vless://7592ca5c-b352-4562-8856-a9c936a3331b@144.31.242.123:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&security=reality&sid=76132b3b39704c44&sni=dk1.hat.onl&type=tcp#🇩🇰 Дания 2 SERV.HOST GROUP LTD
 
 
 
