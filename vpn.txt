@@ -4,11 +4,7 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0
 
 vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@136.176.68.34:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Jcm0TjP_kw-KmJoiG5EGyY5sQ9RGeqlX9Ajd3ZCnSAo&security=reality&sid=a6040129ad7f4b74&sni=www.apple.com&type=tcp#🇬🇧 Великобритания 1 GTHost
 
-vless://042bec60-62d7-4148-a0da-5709ae3ee5a6@177.3.252.45:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PL-jIhHOxLpCUmnDvMEsB3YY3n8o7smiAT0P_SV6RCM&security=reality&sid=19d6296d2621d9fa&sni=pl2.hat.onl&type=tcp#🇵🇱 Польша 4 Kochedykov Egor Aleksandrovich
 
-vless://7592ca5c-b352-4562-8856-a9c936a3331b@177.3.252.45:443?encryption=none&fp=firefox&host=zpir21x6v7y.hat.onl&path=/hls/e69b5vhh/seg&security=tls&sni=zpir21x6v7y.hat.onl&type=xhttp#🇵🇱 Польша 5 Kochedykov Egor Aleksandrovich
-
-vless://042bec60-62d7-4148-a0da-5709ae3ee5a6@195.123.209.32:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&security=reality&sid=76132b3b39704c44&sni=lv1.hat.onl&type=tcp#🇱🇻 Латвия 2 ROUTE 95 LLC
 
 
 
